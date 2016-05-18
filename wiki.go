@@ -1,9 +1,9 @@
 package main
 
-import {
+import (
 	"fmt"
 	"io/ioutil"
-}
+)
 
 type Page struct{
 	Title string
